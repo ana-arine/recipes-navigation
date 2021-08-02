@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationRecipes</string>
+    <string name="minhas_receitas">Minhas Receitas</string>
+    <string name="creme_de_cogumelos">Creme de Cogumelos</string>
+    <string name="bolo_de_fuba">Bolo de Fubá</string>
+    <string name="receita_bolo_de_fuba">
+        <strong>Ingredientes</strong><br />
+        <ul>
+            <li>Fubá</li>
+            <li>Açúcar</li>
+        </ul>
+    </string>
+
+</resources>
